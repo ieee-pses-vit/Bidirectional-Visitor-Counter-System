@@ -4,4 +4,5 @@ This is a low-cost microcontroller based visitor counter that can be used to kno
 Tools that were being used are:
 
 Keil Compiler: for writing the code and generating the output hex file.
+
 Proteus: for simulation of the circuit and verifying the functionality of the code.
